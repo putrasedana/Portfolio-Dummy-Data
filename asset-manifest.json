@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/putrasedana.github.io/Portfolio-Dummy-Data/static/css/main.36fbf581.css",
+    "main.js": "/putrasedana.github.io/Portfolio-Dummy-Data/static/js/main.cdb39508.js",
+    "static/media/realestate.jpg": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/bootstrap.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/bootstrap.3c4e1a5d3a149087b144.png",
+    "static/media/github.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/logo.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/logo.9012ad63e33fbe107594.png",
+    "static/media/html.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/putrasedana.github.io/Portfolio-Dummy-Data/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/putrasedana.github.io/Portfolio-Dummy-Data/index.html",
+    "main.36fbf581.css.map": "/putrasedana.github.io/Portfolio-Dummy-Data/static/css/main.36fbf581.css.map",
+    "main.cdb39508.js.map": "/putrasedana.github.io/Portfolio-Dummy-Data/static/js/main.cdb39508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36fbf581.css",
+    "static/js/main.cdb39508.js"
+  ]
+}
